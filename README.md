@@ -10,9 +10,7 @@
 - <b>SQL Query</b>
   - [Project with SQL Joins](https://github.com/Dmomberg3/SQL-Query)
 - <b>Vulnerable System Analysis</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Project for a Small Business](https://github.com/Dmomberg3/Vulnerable-System-Analysis)
 - <b>Incident Handlers Journal</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - <b>TyHackMe Journal</b>
