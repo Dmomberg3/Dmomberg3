@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Diane! <br/><a href="https://github.com/Dmomberg3">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/dmomberg/">Problem Solver</a>, <a href="dmomberg@meritamerica.org">Connect with Me</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> 👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Security Audit (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -21,14 +21,14 @@
   - <b>TyHackMe Journal</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Relevant Skills and Education:</h2>
+<h2>🔨🔧 Relevant Skills:</h2>
 
 - <b>Tools/Languages: Linux, Windows, SQL, Splunk, WireShark, Tcpdump, Suricata, Python, ChatGPT<b> 
 - <b>Security Practices: Information Security, Network Security, Vulnerability Assessment, Threat Analysis, Log Analysis, Security Frameworks and Controls <b>
 - <b>Software Platforms: Google Workspace, Slack, Battlefy, FACEIT, Bamboo, ADP <b>
 - <b>Strengths: Problem-Solving, Collaboration, Attention to Detail, Calmness Under Pressure, Intercultural Communication <b>
 
-<h2>📺Education and Certifications:</h2>
+<h2>📃 Education and Certifications:</h2>
 
 <b>Google Cybersecurity Professional Certificate • Merit America, Virtual 	08/2025  <b>
   -  <b>Cultivated holistic understanding of cybersecurity’s critical role in organizational security, privacy, and success, including how to systematically identify and mitigate risks, 
@@ -39,9 +39,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- <b>LinkedIn<b>:(https://www.linkedin.com/in/dmomberg/)
-- <b>Email<b>:(dmomberg@meritamerica.org)
-- <b>Phone<b>:(123-456-7891)
+- 💻<b>LinkedIn<b>:(https://www.linkedin.com/in/dmomberg/)
+- 📧<b>Email<b>:(dmomberg@meritamerica.org)
+- 📱<b>Phone<b>:(123-456-7891)
   
 
 <!--
