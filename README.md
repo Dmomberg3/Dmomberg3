@@ -39,13 +39,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | "Phone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Phone]
-[<img align="left" alt="JoshMadakor | "Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Email]
-[<img align="left" alt="JoshMadakor | "LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/dmomberg
-[Email]: dmomberg@meritamerica.org
-[Phone]: 123-456-7891
+- <b>LinkedIn<b>:(https://www.linkedin.com/in/dmomberg/)
+- <b>Email<b>:(dmomberg@meritamerica.org)
+- <b>Phone<b>:(123-456-7891)
+  
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
