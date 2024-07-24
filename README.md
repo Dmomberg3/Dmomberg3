@@ -4,9 +4,9 @@
 <h2> 👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Security Audit</b>
-  -[Project](https://github.com/Dmomberg3/Security-Audit)
+  - [Project using NIST Framework](https://github.com/Dmomberg3/Security-Audit)
 - <b>Cybersecurity Incident Report</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Project](https://github.com/Dmomberg3/Cybersecurity-Incident-Report)
 - <b>SQL Query</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
