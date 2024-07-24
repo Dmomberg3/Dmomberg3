@@ -8,10 +8,7 @@
 - <b>Cybersecurity Incident Report</b>
   - [Project](https://github.com/Dmomberg3/Cybersecurity-Incident-Report)
 - <b>SQL Query</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Project with SQL Joins](https://github.com/Dmomberg3/SQL-Query)
 - <b>Vulnerable System Analysis</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
