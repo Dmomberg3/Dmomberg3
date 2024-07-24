@@ -39,9 +39,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- 💻<b>LinkedIn<b>:(https://www.linkedin.com/in/dmomberg/)
-- 📧<b>Email<b>:(dmomberg@meritamerica.org)
-- 📱<b>Phone<b>:(123-456-7891)
+- 💻<b>LinkedIn<b>: https://www.linkedin.com/in/dmomberg/
+- 📧<b>Email<b>: dmomberg@meritamerica.org
+- 📱<b>Phone<b>: 123-456-7891
   
 
 <!--
