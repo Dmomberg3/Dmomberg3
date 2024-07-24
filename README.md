@@ -12,7 +12,7 @@
 - <b>Vulnerable System Analysis</b>
   - [Project for a Small Business](https://github.com/Dmomberg3/Vulnerable-System-Analysis)
 - <b>Incident Handlers Journal</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Project Documenting an Incident](https://github.com/Dmomberg3/Incident-Handlers-Journal)
   - <b>TyHackMe Journal</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
