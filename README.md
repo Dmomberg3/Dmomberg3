@@ -13,9 +13,12 @@
   - [Project for a Small Business](https://github.com/Dmomberg3/Vulnerable-System-Analysis)
 - <b>Incident Handlers Journal</b>
   - [Project Documenting an Incident](https://github.com/Dmomberg3/Incident-Handlers-Journal)
-  - <b>TyHackMe Journal</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+- <b>TyHackMe Journal</b>
+  - [TryHackMe Projects](https://github.com/Dmomberg3/TryHackMe-Journal)
+  - [Linux Fundamentals](https://github.com/Dmomberg3/TryHackMe-Journal)
+  - [Intro to Logs and Log Analysis](https://github.com/Dmomberg3/TryHackMe-Journal)
+  - [Wireshark Basics and Wireshark 101](https://github.com/Dmomberg3/TryHackMe-Journal)
+  - [Splunk Basics, Incident Handling with Splunk and Splunk (2 & 3)](https://github.com/Dmomberg3/TryHackMe-Journal)
 <h2>🔨🔧 Relevant Skills:</h2>
 
 - <b>Tools/Languages: Linux, Windows, SQL, Splunk, WireShark, Tcpdump, Suricata, Python, ChatGPT<b> 
